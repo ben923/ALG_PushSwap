@@ -1,0 +1,2 @@
+To run this project, you only have to run in a terminal ~php index.php
+if you want to modify the generated array of number you have to edit the construct method of pushNSwap and add or remove iteration or increase or decrease the max rand number
