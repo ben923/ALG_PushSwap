@@ -1,2 +1,6 @@
+The project was about to make a sort of an array only composed of number and mixed. 
+the goal is to sort the array without using sort function.
+You can see how many operation executed and which operation is executed.
+for an array of 100 number 1200 operation is the average with a sort by selection algorithm (enhanced)
 To run this project, you only have to run in a terminal ~php index.php
 if you want to modify the generated array of number you have to edit the construct method of pushNSwap and add or remove iteration or increase or decrease the max rand number
